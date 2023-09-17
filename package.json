@@ -24,5 +24,9 @@
     "hexo-theme-landscape": "^1.0.0",
     "hexo-theme-vivia": "^0.4.2",
     "hexo-word-counter": "^0.1.0"
+  },
+  "engines": {
+    "node": ">18"
   }
+  
 }
